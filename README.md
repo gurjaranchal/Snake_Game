@@ -2,16 +2,16 @@
 
 # Utilized : C# , UNITY 2019.4.31f
 
-## Description 
+# Description 
 
-# • Snake Game is a singleplayer game.
-# • The Snake is a Single Player game genre where the player maneuvers a growing line that becomes a primary obstacle to itself.
-# • In this Snake Game 2D we can control movement of snake by using keyboard and learn how to add movement with Invoke Repeating.
+## • Snake Game is a singleplayer game.
+## • The Snake is a Single Player game genre where the player maneuvers a growing line that becomes a primary obstacle to itself.
+## • In this Snake Game 2D we can control movement of snake by using keyboard and learn how to add movement with Invoke Repeating.
 
-## Tutorial Link
-''''
-# https://noobtuts.com/unity/2d-snake-game
-''''
+# Tutorial Link
+
+## https://noobtuts.com/unity/2d-snake-game
+
 
 
 # Main Screen of Game
